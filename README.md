@@ -8,12 +8,14 @@ These instructions will help you set up and run the project on your local machin
 
 ### Prerequisites
 
-The project requires the following Python libraries: Flask, Requests, Werkzeug. You can install them using pip:
+The project requires the following Python libraries: `Flask`, `Requests`, `Werkzeug`. 
 
+You can install them using pip:
+```
 pip install Flask
 pip install Requests
 pip install Werkzeug
-
+```
 
 ### Running the Application
 
